@@ -1,5 +1,5 @@
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p> -->
-# La La Landing
+# La La Lead
 
 A simple and effective subscription funnel, made with Laravel.
 
@@ -8,9 +8,9 @@ A simple and effective subscription funnel, made with Laravel.
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About La La Landing
+## About La La Lead
 
-La La Landing can be used as a starting point to develop subscription funnels (typically, landing pages that invite users to leave their contacts, for call me back services, etcetera).
+La La Lead can be used as a starting point to develop subscription funnels (typically, landing pages that invite users to leave their contacts, for call me back services, etcetera).
 Being developed with Laravel and Bootstrap, it offers a well structured, solid and secure basic environment for your project.
 
 ## Requirements
