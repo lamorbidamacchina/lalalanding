@@ -42,6 +42,12 @@ Heading to http://localhost:8000 you should see your basic landing page. Try to 
 
 Enjoy and feel free to change the code as you need :)
 
+## Screenshots
+
+![Homepage](https://lamorbidamacchina.com/images/lalalead/screenshot_home.png?raw=true "Homepage")
+
+![Thank you page](https://lamorbidamacchina.com/images/lalalead/screenshot_thankyou.png?raw=true "Thank you page")
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within La La Lead, please send an e-mail to [simone@lamorbidamacchina.com](mailto:simone@lamorbidamacchina.com). All security vulnerabilities will be promptly addressed.
