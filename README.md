@@ -23,23 +23,29 @@ Since Laravel is database agnostic, it will be quite easy to switch to another D
 
 ## Installation
 
-Pull from this repository, then launch 
+Pull from this repository and make a copy of .env.example, located in the root of the project. 
+
+Name the new file .env and enter your database connection data (lines 11-16).
+
+Then launch 
 <pre>
 composer install
 php artisan migrate
 </pre>
 
-and you should be fine.
+and you should be fine. 
 
 To start local server, launch
 <pre>php artisan serve</pre>
+
+Heading to http://localhost:8000 you should see your basic landing page. Try to fill the form and you should be able to see a new record in the database, in the table "leads".
 
 Enjoy and feel free to change the code as you need :)
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within La La Landing, please send an e-mail to Simone via [simone@lamorbidamacchina.com](mailto:simone@lamorbidamacchina.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within La La Lead, please send an e-mail to [simone@lamorbidamacchina.com](mailto:simone@lamorbidamacchina.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-La La Landing is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+La La Lead is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
